@@ -1,1 +1,4 @@
-I am adding a line of text to the file!
+I am adding a line of text to the file and then I plan to add another line!
+
+This is going to be a line of numbers 
+12345678

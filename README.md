@@ -1,2 +1,2 @@
-# tesRepository
-This repo is for testing
+# testRepository
+**This repo is for testing**
